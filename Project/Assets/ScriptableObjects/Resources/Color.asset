@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d170e9d0eec2312459b250d238bda487, type: 3}
+  m_Name: Color
+  m_EditorClassIdentifier: Assembly-CSharp::Subject
+  properNoun: 0
+  connections:
+  - {fileID: 11400000, guid: 5eca3aec32f76654a8f8a2e68698dfff, type: 2}
+  - {fileID: 11400000, guid: 6bae52a75f67cb14fb99686698ac86be, type: 2}
+  descriptors:
+  - fragment: makes the world look nice
+    subjects:
+    - {fileID: 11400000, guid: f4286991bffad344ba5bce2aac80a883, type: 2}
